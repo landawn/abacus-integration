@@ -16,8 +16,8 @@ import com.landawn.abacus.util.N;
 import com.landawn.abacus.util.Tuple;
 import com.landawn.abacus.util.Tuple.Tuple2;
 
-public final class JWTUtil {
-    private JWTUtil() {
+public final class Jose4jUtil {
+    private Jose4jUtil() {
         // singleton.
     }
 
